@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E2233AE6-40FA-4268-911E-C086FE32B1B6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RatingController</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>30F1FA9C-97A1-48D3-854E-742AD992F0ED</key>
+		<string>http://agautam-code.googlecode.com/svn/trunk/iPhone/RatingView</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RatingController.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>30F1FA9C-97A1-48D3-854E-742AD992F0ED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>30F1FA9C-97A1-48D3-854E-742AD992F0ED</key>
+		<string>http://agautam-code.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://agautam-code.googlecode.com/svn/trunk/iPhone/RatingView/RatingController.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>30F1FA9C-97A1-48D3-854E-742AD992F0ED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>30F1FA9C-97A1-48D3-854E-742AD992F0ED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RatingView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
